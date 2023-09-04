@@ -34,5 +34,11 @@ Start the Client
   //open now terminal
   npm run dev
 ```
+## Screenshots
+![image](https://github.com/poudyalamit/Pneumonia-Classifier/assets/109841573/49b26e6b-cb02-4d35-b349-0b6713e83de7)
+![image](https://github.com/poudyalamit/Pneumonia-Classifier/assets/109841573/6b6b3153-2df1-4ad0-9042-077460bb8a27)
+
+
+
 ## Made By
 This app is developed by Triple-A.
