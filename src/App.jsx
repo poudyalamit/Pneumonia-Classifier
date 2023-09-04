@@ -11,7 +11,7 @@ function App() {
       <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/image" element={<ImageChecker />} />
+        <Route path="/classifier" element={<ImageChecker />} />
       </Routes>
       <Footer />
     </>

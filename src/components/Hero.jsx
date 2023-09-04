@@ -1,4 +1,4 @@
-import Doctor from "../../public/Doctor.png";
+import Doctor from "/Doctor.png";
 
 import LayoutEffect from "./Layout";
 
@@ -21,7 +21,7 @@ const Hero = () => {
           </div>
           <div className="flex-none space-y-5 max-w-2xl">
             <h1 className="text-4xl text-gray-800 font-extrabold sm:text-5xl">
-              A Project For Pnemonia
+              Pneumonia Classifier
             </h1>
           </div>
         </div>

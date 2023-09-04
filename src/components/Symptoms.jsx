@@ -1,8 +1,8 @@
-import Fever from "../../public/Fever.png";
-import Cough from "../../public/Cough.jpg";
-import ShortnessofBreath from "../../public/ShortnessofBreath.webp";
-import ChestPain from "../../public/ChestPain.jpg";
-import ChillsandSweating from "../../public/ChillsandSweating.png";
+import Fever from "/Fever.png";
+import Cough from "/Cough.jpg";
+import ShortnessofBreath from "/ShortnessofBreath.webp";
+import ChestPain from "/ChestPain.jpg";
+import ChillsandSweating from "/ChillsandSweating.png";
 import LayoutEffect from "./Layout";
 
 const Symptoms = () => {

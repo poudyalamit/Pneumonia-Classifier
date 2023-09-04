@@ -1,0 +1,27 @@
+.image-container {
+    border: 2px dotted #000;
+    /* width: 300px;
+    height: 300px; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    overflow: hidden;
+    max-width: 500px;
+    min-height: 300px;
+    margin-left: 30%;
+    margin-top: 3%;
+  }
+  
+  .image-container img {
+    max-width: 100%;
+    max-height: 100%;
+  }
+  
+  input[type="file"] {
+    display: none;
+  }
+  
+  .remove-text{
+    display: none;
+  }
